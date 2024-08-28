@@ -167,7 +167,7 @@
     "web3-core-method": "1.2.7",
     "web3-core-requestmanager": "1.2.7",
     "web3-utils": "1.2.7",
-    "webpack": "4.44.2",
+    "webpack": "5.94.0",
     "weekstart": "1.1.0",
     "worker-loader": "3.0.2",
     "zxcvbn": "4.4.2"
